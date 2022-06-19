@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_apps"
+        android:title="My Apps &amp; Games"
+        android:icon="@drawable/apps"/>
+
+    <item
+        android:id="@+id/item_notification"
+        android:title="My Notification"
+        android:icon="@drawable/notifications"/>
+
+    <item
+        android:id="@+id/item_subscription"
+        android:title="subscription"
+        android:icon="@drawable/subscriptions"/>
+
+    <item
+        android:id="@+id/item_home"
+        android:title="Home"
+        android:icon="@drawable/home"/>
+
+    <item
+        android:id="@+id/item_game"
+        android:title="Games"
+        android:icon="@drawable/games"/>
+
+    <item
+        android:id="@+id/item_account"
+        android:title="Account"
+        android:icon="@drawable/account"/>
+
+</menu>
